@@ -1,5 +1,5 @@
-## MasterThesis
-# Socioeconomic analysis of urban water management through separate sewer systems
+# MasterThesis
+## Socioeconomic analysis of urban water management through separate sewer systems
 
 By Wickie Lassen and Nathalie Høst
 
