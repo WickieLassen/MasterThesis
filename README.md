@@ -4,8 +4,11 @@
 By Wickie Lassen and Nathalie Høst
 
 
+
 Here you will find the more comprehensive data used in the master thesis
 The Excel and csv files can be freely downloaded, though it is recommended that the data is used with care, as many assumptions and bias might be present.
+
+
 
 This file contains:
 ### 1) The raw data of the willingness to pay survey (Chapter 4)
